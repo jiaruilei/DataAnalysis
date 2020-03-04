@@ -1,0 +1,1 @@
+The MATLAB program named "WavePeriodSamples.m" was used to calculate the exact number of samples within one wave period. 
