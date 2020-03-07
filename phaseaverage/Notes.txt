@@ -1,0 +1,5 @@
+"phase_average.m" is the method I developed to calculate phase-averaged velocities.
+
+"36h_a1.25f0.7h36_05.dat" is a sample velocity record (data ouput frm Vectrino).
+
+"Example.m" is the main MATLBA file that calculates and plots the phase-average velocity.
