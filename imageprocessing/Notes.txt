@@ -1,0 +1,1 @@
+"ImageProcessingBladeDynamics.m" is the program I used to process videos that captured the motion of individual model seagrass blades. 
